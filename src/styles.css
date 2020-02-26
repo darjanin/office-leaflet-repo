@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+#mapid {
+  height: 100vh;
+}
+
+.my-div-icon {
+  width: 20px;
+  height: 20px;
+  background-color: rebeccapurple;
+  opacity: 0.4;
+  border-radius: 10px;
+}
+
+.avatar-icon {
+  width: 50px;
+  height: 50px;
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  border-radius: 25px;
+  margin-top: -25px;
+  margin-left: -25px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+}
